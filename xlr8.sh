@@ -1,7 +1,7 @@
 #!/bin/bash
 #---------------------------------
 #        XLR8 BOMBER 2.0 !
-#    Coded by Adarsh Prakash
+#    Coded by Salman Shk
 #   Dont try to Steal it Bitch
 #---------------------------------
 
