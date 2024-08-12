@@ -1,7 +1,7 @@
 #!/bin/bash
 #---------------------------------
 #        XLR8 BOMBER 2.0 !
-#    Coded by Adarsh Prakash
+#    Coded by Salman Shaikh
 #   Dont try to Steal it Bitch
 #---------------------------------
 
@@ -46,9 +46,9 @@ echo -e "\e[1;34m‎‎‏‏‎ ‎"
 #After \e[1;34m a blank character is used to give purple colour to banner
 figlet -c XLR8 BOMB3R
 sleep 1
-echo -e "                                         \e[91mAuthor:Adarsh Prakash"
+echo -e "                                         \e[91mAuthor:Salman Shaikh"
 sleep 1
-echo -e "                                         \e[36mGroup:Linux Repo"
+echo -e "                                         \e[36mGroup:Linux Sallu"
 echo ""
 
 }
